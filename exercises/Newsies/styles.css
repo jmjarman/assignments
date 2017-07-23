@@ -1,0 +1,15 @@
+h1 {
+    border-style: solid hidden solid hidden;
+    border-width: 5px;
+    text-align: center;
+    font-size: 3.0em;
+}
+
+p {
+    column-count: 3;
+    display: inline-block;
+}
+
+img {
+    margin: 20px 80px;
+}
