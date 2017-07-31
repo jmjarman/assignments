@@ -1,0 +1,36 @@
+body {
+    background-color: red;
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: blue;
+    font-size: 200%;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    background-color: yellow;
+}
+
+.cheep {
+    display: inline-block;
+}
+
+.goomba {
+    display: inline-block;
+}
+
+.bob {
+    display: inline-block;
+}
+
+img {
+    border-radius: 25px;
+    max-width: 60%;
+    height: auto;
+}
