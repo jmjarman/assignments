@@ -1,12 +1,14 @@
 body {
     background-color: red;
     font-family: sans-serif;
+    text-decoration-color: darkgray;
 }
 
 h1 {
     background-color: blue;
     font-size: 200%;
     text-align: center;
+    border-radius: 50px;
 }
 
 h2 {
@@ -15,6 +17,12 @@ h2 {
 
 p {
     background-color: yellow;
+    border-radius: 25px;
+    text-align: center;
+    font-size: 125%;
+}
+li {
+    font-size: 120%;
 }
 
 .cheep {

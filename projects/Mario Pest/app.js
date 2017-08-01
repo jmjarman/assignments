@@ -1,7 +1,12 @@
-function sum(a, b, c) {
-
-    return (a + b + c)
-}
-//console.log(sum(60, 55, 56));
-var a = document.getElementById("goombaCost")
-console.log (a)
+//make display box
+//get values
+var g = parseInt(document.getElementById("goombaCost").innerHTML);
+var c = parseInt(document.getElementById("cheepCost").innerHTML);
+var b = parseInt(document.getElementById("bobCost").innerHTML);
+document.getElementById("total").innerHTML = g+c+b
+//sumValues(60, 55, 56));
+//function sum(g, c, b) {
+//
+//    return (g+c+b);
+//}
+//console.log(sum(g,c,b))
